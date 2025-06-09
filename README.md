@@ -26,6 +26,7 @@ Email: jakub@jakubstetz.dev
 <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></code>
 <code><img height="25" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></code>
 <code><img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/SQL-F7DF1E?style=for-the-badge&logoColor=black"/></code>
 
 #### Web & API Frameworks
 <code><img height="25" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/></code>
