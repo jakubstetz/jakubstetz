@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi. I'm Jakub.
-<h3 align="center">Backend- and infrastructure-focused software engineer, U.S. Nuclear Navy veteran</h3>
+<h3 align="center">Backend- and infrastructure-focused software engineer</h3>
 
 - 🛠 I build backend systems with Python, Go, PostgreSQL, and AI/ML tools
 - 🏗️ I work with infrastructure using AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines.
