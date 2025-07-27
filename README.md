@@ -52,3 +52,4 @@ Email: jakub@jakubstetz.dev
 <code><img height="25" src="https://img.shields.io/badge/Hugging_Face-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/></code>
 <code><img height="25" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></code>
 <code><img height="25" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/></code>
